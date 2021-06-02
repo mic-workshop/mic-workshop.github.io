@@ -1,0 +1,29 @@
+- name: Jennifer Hu
+  photo: jh.png
+  www: https://jennhu.github.io/
+  blurb: Massachusetts Institute of Technology
+
+- name: Noga Zaslavsky
+  photo: nz.jpg
+  www: https://www.nogsky.com/
+  blurb: Massachusetts Institute of Technology
+
+- name: Roger Levy
+  photo: rl.jpg
+  www: https://www.mit.edu/~rplevy/
+  blurb: Massachusetts Institute of Technology
+
+- name: Aida Nematzadeh
+  photo: an.png
+  www: http://www.aidanematzadeh.me/
+  blurb: DeepMind
+
+- name: Michael Franke
+  photo: mf.jpg
+  www: https://www.home.uni-osnabrueck.de/michfranke/index.html
+  blurb: Universität Osnabrück
+
+- name: Noah Goodman
+  photo: ng.jpg
+  www: https://cocolab.stanford.edu/ndg
+  blurb: Stanford University
