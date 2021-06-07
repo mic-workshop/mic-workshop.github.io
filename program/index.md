@@ -4,6 +4,8 @@ layout: page #program
 
 # Program
 
+Final program subject to change.
+
 <table class="styled-table">
     <thead>
         <tr>
