@@ -4,7 +4,7 @@ layout: page
 
 # Call for papers
 
-We invite papers from cognitive science, linguistics, and machine learning that explore synergies between pragmatics in humans and machines. In addition to theoretical or empirical findings, we welcome "blue sky" reflections upon open problems, prospects for future development, and positions on the current state of the art. 
+We invite papers from Cognitive Science, Linguistics, and Machine Learning that explore synergies between pragmatics in humans and machines. In addition to theoretical or empirical findings, we welcome "blue sky" reflections upon open problems, prospects for future development, and positions on the current state of the art. 
 
 Topics of interest include but are not limited to:
 
