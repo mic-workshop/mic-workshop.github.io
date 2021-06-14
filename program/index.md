@@ -19,6 +19,130 @@ Final program subject to change.
         <tr class="mingle-row">
             <td></td>
             <td>08:40</td>
+            <td>Poster preview</td>
+            <td>Gather</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>08:55</td>
+            <td>Opening remarks</td>
+            <td>Zoom</td>
+        </tr>
+        <tr class="session-row">
+            <td rowspan=5>Session 1</td>
+        </tr>
+        <tr>
+            <td>09:00</td>
+            <td>Invited talk #1</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>09:30</td>
+            <td>Contributed talk</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>09:40</td>
+            <td>Contributed talk</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>09:50</td>
+            <td>Invited talk #2</td>
+            <td></td>
+        </tr>
+        <tr class="mingle-row">
+            <td></td>
+            <td>10:30</td>
+            <td>Coffee break / Meet-and-greet #1</td>
+            <td>Gather</td>
+        </tr>
+        <tr class="session-row">
+            <td rowspan=5>Session 2</td>
+        </tr>
+        <tr>
+            <td>11:00</td>
+            <td>Invited talk #3</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11:30</td>
+            <td>Contributed talk</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11:40</td>
+            <td>Contributed talk</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>11:50</td>
+            <td>Invited talk #4</td>
+            <td></td>
+        </tr>
+        <tr class="mingle-row">
+            <td></td>
+            <td>12:20</td>
+            <td>Lunch & Poster session</td>
+            <td>Gather</td>
+        </tr>
+        <tr class="session-row">
+            <td rowspan=5>Session 3</td>
+        </tr>
+        <tr>
+            <td>14:00</td>
+            <td>Invited talk #5</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:30</td>
+            <td>Contributed talk</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:40</td>
+            <td>Contributed talk</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>14:50</td>
+            <td>Invited talk #6</td>
+            <td></td>
+        </tr>
+        <tr class="mingle-row">
+            <td></td>
+            <td>15:20</td>
+            <td>Coffee break / Meet-and-greet #2</td>
+            <td>Gather</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>15:50</td>
+            <td>Panel discussion: invited speakers</td>
+            <td>Zoom</td>
+        </tr>
+        <tr>
+            <td></td>
+            <td>16:55</td>
+            <td>Closing remarks</td>
+            <td>Zoom</td>
+        </tr>
+    </tbody>
+</table>
+
+<!-- <table class="styled-table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Time</th>
+            <th>Event</th>
+            <th>Platform</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr class="mingle-row">
+            <td></td>
+            <td>08:40</td>
             <td>Poster preview / mingling</td>
             <td>Gather</td>
         </tr>
@@ -143,7 +267,7 @@ Final program subject to change.
             <td>Zoom</td>
         </tr>
     </tbody>
-</table>
+</table> -->
 
 
 <!-- | Time | Event | Platform |
