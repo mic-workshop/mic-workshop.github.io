@@ -12,3 +12,4 @@ In this workshop, we aim to bring together researchers from Cognitive Science, L
 - What is the nature of the training signal that learners (humans and models) must receive in order to acquire pragmatic reasoning abilities? 
 - What is the role of Theory of Mind and social reasoning in pragmatics?
 - What can we learn from the development of pragmatic abilities in children or deficits in pragmatic reasoning in non-neurotypical individuals?
+- How can we model the (potentially non-cooperative) goals of communicating agents at the level of dialogue or discourse?

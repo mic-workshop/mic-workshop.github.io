@@ -8,11 +8,6 @@
   www: https://www.nogsky.com/
   blurb: Massachusetts Institute of Technology
 
-- name: Roger Levy
-  photo: rl.jpg
-  www: https://www.mit.edu/~rplevy/
-  blurb: Massachusetts Institute of Technology
-
 - name: Aida Nematzadeh
   photo: an.png
   www: http://www.aidanematzadeh.me/
@@ -22,6 +17,11 @@
   photo: mf.jpg
   www: https://www.home.uni-osnabrueck.de/michfranke/index.html
   blurb: Universität Osnabrück
+
+- name: Roger Levy
+  photo: rl.jpg
+  www: https://www.mit.edu/~rplevy/
+  blurb: Massachusetts Institute of Technology
 
 - name: Noah Goodman
   photo: ng.jpg
