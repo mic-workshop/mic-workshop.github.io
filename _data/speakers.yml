@@ -1,0 +1,29 @@
+- name: Raquel Fernández
+  photo: rf.png
+  www: https://staff.fnwi.uva.nl/r.fernandezrovira/
+  blurb: University of Amsterdam
+
+- name: Peter Hagoort
+  photo: ph.jpg
+  www: https://www.mpi.nl/people/hagoort-peter
+  blurb: Max Planck Institute for Psycholinguistics
+
+- name: Robert Hawkins
+  photo: rh.jpg
+  www: https://rxdhawkins.com/
+  blurb: Princeton University
+
+- name: Dan Klein
+  photo: dk.jpg
+  www: https://people.eecs.berkeley.edu/~klein/
+  blurb: UC Berkeley
+
+- name: Jesse Snedeker
+  photo: js.jpg
+  www: https://psychology.fas.harvard.edu/people/jesse-snedeker
+  blurb: Harvard University
+
+- name: Marieke Woensdregt
+  photo: mw.jpg
+  www: https://marieke-woensdregt.github.io/
+  blurb: Radboud University

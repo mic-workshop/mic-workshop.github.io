@@ -4,9 +4,7 @@ layout: page #speaker-overview
 
 # Invited speakers
 
-Speakers TBD.
-
-<!-- <div>
+<div>
     {% assign number_printed = 0 %}
     {% for s in site.data.speakers %}
 
@@ -39,4 +37,4 @@ Speakers TBD.
     {% if even_odd == 1 %}
     </div>
     {% endif %}
-</div> -->
+</div>
