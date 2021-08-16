@@ -1,6 +1,5 @@
 title: "MiC @ NeurIPS 2021"
-description: >-
-  Workshop at NeurIPS 2021
+description: Workshop at NeurIPS 2021 # Workshop at <a href="https://neurips.cc/Conferences/2021">The 35th Conference on Neural Information Processing Systems (NeurIPS 2021)</a>
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://mic-workshop.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
@@ -74,6 +73,8 @@ conference:
       #  relative_url: /talks/
       - name: Speakers
         relative_url: /speakers/
+      - name: Participation
+        relative_url: /participation/
       #- name: Location
       #  relative_url: /location/
 

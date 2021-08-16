@@ -1,29 +1,38 @@
 - name: Raquel Fernández
   photo: rf.png
   www: https://staff.fnwi.uva.nl/r.fernandezrovira/
-  blurb: University of Amsterdam
+  affil: University of Amsterdam
+  talk_title: "Human Production Strategies for Neural Language Generation"
+  talk_abstract: "Progress on language generation has experienced a huge boost with the advent of large models trained on huge amounts of text. However, this kind of language modelling will only take us that far. Most natural language use is driven by communicative goals and is often grounded both in the conversational context and in extralinguistic information. Can we take inspiration from human production strategies in situated environments to drive forward natural language generation models? I will argue that yes, we can, and present a few examples of recent and ongoing research carried out within my group that follow this research programme."
+  bio: Raquel Fernández is Associate Professor at the Institute for Logic, Language & Computation, University of Amsterdam, where she leads the Dialogue Modelling Group. Her work and interests revolve around language use in context, including computational semantics and pragmatics, dialogue interaction, visually-grounded language processing. and language learning, among others. After studying Cognitive Science and Language in Barcelona (her home city), Raquel received her PhD in Computational Linguistics from King's College London. She has held research positions at the Linguistics Department of the University of Potsdam and at the Center for the Study of Language and Information (CSLI), Stanford University. Over her career, she has been awarded several prestigious personal fellowships by the Dutch Research Council and is currently the recipient of an ERC Consolidator Grant. Other distinctions include having been a member of the Editorial Board of the journals Computational Linguistics and Dialogue & Discourse, co-president of the SemDial Workshhop Series for ten years, and member of the scientific advisory board of SIGdial in several occasions.
 
 - name: Peter Hagoort
   photo: ph.jpg
   www: https://www.mpi.nl/people/hagoort-peter
-  blurb: Max Planck Institute for Psycholinguistics
+  affil: Max Planck Institute for Psycholinguistics
+  talk_title: "The Neurobiology of Pragmatics"
+  talk_abstract: "In this presentation I will discuss recent insights into both the time course of pragmatic processing and the key neural infrastructure for inferring speaker meaning from coded meaning. I will show why mirror neurons are not able to handle pragmatic information. In addition, I will present evidence for the role of the Theory of Mind (ToM) network in processing of pragmatic information."
+  bio: Peter Hagoort is director of the Max Planck Institute for Psycholinguistics (since November 2006), and the founding director of the Donders Institute, Centre for Cognitive Neuroimaging (DCCN, 1999), a cognitive neuroscience research centre at the Radboud University Nijmegen. In addition, he is professor in cognitive neuroscience at the Radboud University Nijmegen. His own research interests relate to the domain of the human language faculty and how it is instantiated in the brain. In his research he applies neuroimaging techniques such as ERP, MEG, PET and fMRI to investigate the language system and its impairments as in aphasia, dyslexia and autism. For his scientific contributions, the Royal Netherlands Academy of Arts Sciences (KNAW) awarded him with the Hendrik Mullerprijs in 2003. In 2004 he was awarded by the Dutch Queen with the "Knighthood of the Dutch Lion". In 2005 he received the NWO-Spinoza Prize (M€ 1.5). In 2007 the University of Glasgow awarded him with an honorary doctorate in science for his contributions to the cognitive neuroscience of language. In 2008 he was awarded with the Heymans Prize. In 2012 the KNAW awarded his career contribution to the cognitive neuroscience with the Academy Professorship Prize (M€ 1.0). Peter Hagoort is member of the Royal Netherlands Academy of Arts and Sciences (KNAW), of The Koninklijke Hollandsche Maatschappij der Wetenschappen, and of the Academia Europaea. In 2018 Peter Hagoort was elected as international member of the National Academy of Sciences and as Fellow of the Cognitive Science Society.
 
 - name: Robert Hawkins
   photo: rh.jpg
   www: https://rxdhawkins.com/
-  blurb: Princeton University
+  affil: Princeton University
+  talk_title: "The Right Words for the Job: Coordinating on Task-Relevant Conventions via Bayesian Program Learning"
+  bio: Robert Hawkins is a C.V. Starr Fellow at the Princeton Neuroscience Institute. He previously studied cognitive science at Indiana University and completed his graduate work at Stanford University. He is interested in the computational mechanisms that allow people to flexibly interact and rapidly coordinate on new meanings across different contexts. His research spans psychology, linguistics, and machine learning, using large-scale multi-player experiments to observe naturalistic human language use and formalizing theories of communication and social reasoning in scalable computational models.
 
 - name: Dan Klein
   photo: dk.jpg
   www: https://people.eecs.berkeley.edu/~klein/
-  blurb: UC Berkeley
+  affil: UC Berkeley
+  bio: Dan Klein's research focuses on statistical natural language processing, including unsupervised learning methods, syntactic parsing, information extraction, and machine translation. He received his BA in Math, CS, Linguistics (summa cum laude) from Cornell University (1994-1998); an M.St. in Linguistics from Oxford University (1998-1999); and an M.S. and Ph.D. in Computer Science from Stanford University (1999-2004). Recent honors and awards include the ACM's Grace Murray Hopper Award, the Sloan Research Fellowship, the NSF CAREER Award, and the Microsoft New Faculty Fellowship. He was awarded the Computer Science Division's Jim and Donna Gray Award for Excellence in Undergraduate Teaching in 2009, and UC Berkeley's Distinguished Teaching Award in 2010, and the Diane S. McEntyre Award for Excellence in Teaching in 2011. He has won best paper awards with co-authors at NAACL 2010 for "Coreference Resolution in a Modular, Entity-Centered Model," at ACL 2009 for "K-Best A* Parsing," at NAACL 2006 for "Prototype-Driven Sequence Learning," EMNLP 2004 for "Max-Margin Parsing," and at ACL 2003 for "Accurate Unlexicalized Parsing."
 
 - name: Jesse Snedeker
   photo: js.jpg
   www: https://psychology.fas.harvard.edu/people/jesse-snedeker
-  blurb: Harvard University
+  affil: Harvard University
 
 - name: Marieke Woensdregt
   photo: mw.jpg
   www: https://marieke-woensdregt.github.io/
-  blurb: Radboud University
+  affil: Radboud University

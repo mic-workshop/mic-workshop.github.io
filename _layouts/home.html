@@ -12,11 +12,15 @@
       {% endif %} -->
       Meaning in Context: Pragmatic Communication in Humans and Machines
     </h1>
-    {% if site.description != none %}
+    <p class="lead">
+      Workshop at <a href="https://neurips.cc/Conferences/2021">The 35th Conference on Neural Information Processing Systems (NeurIPS 2021)</a><br>
+      Monday, December 13, 2021
+    </p>
+    <!-- {% if site.description != none %}
       <p class="lead">
         {{ site.description | markdownify | replace: '<p>', '<p class="lead">' }}
       </p>
-    {% endif %}
+    {% endif %} -->
 
     <hr class="my-4">
 
@@ -88,7 +92,7 @@
   <hr class="my-4">
 
   <h2>Organizers</h2>
-
+  <br>
   <div>
     {% assign number_printed = 0 %}
     {% for o in site.data.organizers %}
@@ -123,5 +127,9 @@
     </div>
     {% endif %}
   </div>
+
+  <!-- <div>
+    <p>The organizers can be reached at <a href="mailto:mic.workshop.2021@gmail.com">mic.workshop.2021@gmail.com</a>.</p>
+  </div> -->
 
 {% include partials/footer.html %}
