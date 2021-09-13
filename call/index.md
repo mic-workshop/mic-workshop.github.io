@@ -23,14 +23,14 @@ All accepted papers will be presented in a virtual poster session and listed on 
 
 The *paper* template and style files can be found at [https://www.overleaf.com/read/fcscyxfdtqsk](https://www.overleaf.com/read/fcscyxfdtqsk), and the *abstract* template and style files can be found at [https://www.overleaf.com/read/frfjvjgsbdzm](https://www.overleaf.com/read/frfjvjgsbdzm). Both links are read-only Overleaf projects; you will need to make a copy to edit. Do not use the standard NeurIPS style files. Please refer to the [NeurIPS 2021 formatting instructions](https://neurips.cc/Conferences/2021/PaperInformation/StyleFiles) for best practices regarding style.
 
-**Please make your submission at [https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MiC](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MiC) by September 17, 2021** (note the extension). While we are using OpenReview, submissions and reviews will **not** be made public.
+**Please make your submission at [https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MiC](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/MiC) by September 17, 2021** anywhere on Earth (note the extension). While we are using OpenReview, submissions and reviews will **not** be made public.
 
 ## Dual submission policy
 We welcome papers that are currently under review, but discourage submission of papers that will be presented at the main conference or have been previously published at an ML conference. Accepted papers will be published on the workshop homepage, but will not be part of the official proceedings and are to be considered non-archival.
 
 ## Important dates
 
-**Update 2021-09-07: The submission deadline has been extended to September 17, 2021.**
+**Update 2021-09-07: The submission deadline has been extended to September 17, 2021 (AoE).**
 
 Submission deadline..................September 17, 2021
 
