@@ -60,9 +60,10 @@ Please note that all times are in Eastern Time (New York). The final program is 
         <tr>
             <td>10:00</td>
             <td>
-            Invited talk: TBD
+            Invited talk: "Human Production Strategies for Neural Language Generation"
+            <br><br><p style="font-size:0.75rem;">Progress on language generation has experienced a huge boost with the advent of large models trained on huge amounts of text. However, this kind of language modelling will only take us that far. Most natural language use is driven by communicative goals and is often grounded both in the conversational context and in extralinguistic information. Can we take inspiration from human production strategies in situated environments to drive forward natural language generation models? I will argue that yes, we can, and present a few examples of recent and ongoing research carried out within my group that follow this research programme.</p>
             </td>
-            <td>Jesse Snedeker</td>
+            <td>Raquel Fernández</td>
             <td>Zoom</td>
         </tr>
         <tr class="mingle-row">
@@ -130,10 +131,9 @@ Please note that all times are in Eastern Time (New York). The final program is 
         <tr>
             <td>15:30</td>
             <td>
-            Invited talk: "Human Production Strategies for Neural Language Generation"
-            <br><br><p style="font-size:0.75rem;">Progress on language generation has experienced a huge boost with the advent of large models trained on huge amounts of text. However, this kind of language modelling will only take us that far. Most natural language use is driven by communicative goals and is often grounded both in the conversational context and in extralinguistic information. Can we take inspiration from human production strategies in situated environments to drive forward natural language generation models? I will argue that yes, we can, and present a few examples of recent and ongoing research carried out within my group that follow this research programme.</p>
+            Invited talk: TBD
             </td>
-            <td>Raquel Fernández</td>
+            <td>Jesse Snedeker</td>
             <td>Zoom</td>
         </tr>
         <tr>
