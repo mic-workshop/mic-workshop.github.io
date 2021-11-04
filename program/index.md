@@ -94,6 +94,7 @@ Please note that all times are in Eastern Time (New York). The final program is 
             <td>13:30</td>
             <td>
             Invited talk: "The Right Words for the Job: Coordinating on Task-Relevant Conventions via Bayesian Program Learning"
+            <br><br><p style="font-size:0.75rem;">In this talk, I'll argue that human-like language use in a variable and non-stationary social environment requires a more radical shift in our models of meaning. People not only rely on pragmatic reasoning to enrich static literal meanings, but flexibly create new literal meanings together to suit the task at hand. In other words, the central computational problem of communication is not simply transmission in context, as in classical formulations, but continual learning within and across social contexts. As a case study, I'll present a physical assembly task where pairs of human participants worked together to reconstruct block towers. We found that human participants rapidly coordinated on new, more abstract language that captured each scene’s underlying structure. Motivated by these findings, we extend recent hierarchical models of convention formation with a Bayesian program learning module. This model suggests a path toward more adaptive language models that are able to 'find the right words for the job' and collaborate with human partners in a wider variety of novel contexts.</p>
             </td>
             <td>Robert Hawkins</td>
             <td>Zoom</td>
