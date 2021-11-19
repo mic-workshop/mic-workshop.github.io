@@ -11,4 +11,4 @@ To foster interactions between workshop participants, we are hosting virtual mee
 The workshop will take place as a fully virtual event on Monday, December 13, 2021.
 <!-- Please refer to the official NeurIPS workshop schedule at [https://neurips.cc/Conferences/2021/Schedule?showEvent=21840](https://neurips.cc/Conferences/2021/Schedule?showEvent=21840). -->
 
-Workshop attendees **must register for the NeurIPS conference** in order to access the Zoom links and Gather.town poster session.
+Workshop attendees **must register for the NeurIPS conference** ([https://neurips.cc/](https://neurips.cc/)) in order to access the Zoom links, Rocketchat, and Gathertown rooms.
