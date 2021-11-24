@@ -127,6 +127,7 @@ Please note that all times are in Eastern Standard Time (New York). The final pr
             <td>14:30</td>
             <td>
             Invited talk: "Incorporating Interaction in Models of Language Use"
+            <br><br><p style="font-size:0.75rem;">Everyday conversation comes with an important affordance: interaction. Amongst other forms of metacommunication, interaction allows for the use of other-initiated repair: where a receiver signals trouble in understanding a producer's utterance, thereby prompting the producer to repeat or clarify. This phenomenon is ubiquitous in everyday conversation, but its affordance has largely been ignored in computational models of language use and language evolution. In this talk, I explore what happens when we add other-initiated repair to (i) a model of disambiguation in language use, and (ii) a model of the cultural evolution of compositional structure in language. In the first case study, we show that interactive repair may help outsource some of the computational resource demands of pragmatic reasoning to interaction (where disambiguation takes place across multiple turns). In the second case study, we show that interactive repair may play a role in 'locking in' compositional structure over generations in the cultural evolution of language.</p>
             </td>
             <td>Marieke Woensdregt</td>
             <td>Zoom</td>
