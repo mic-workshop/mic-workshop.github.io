@@ -5,8 +5,10 @@ layout: page #program
 # Program
 
 <br>
+The workshop will take place on Monday, December 13, 2021.
+Please note that all times are in Eastern Standard Time (New York).
+
 Information about invited speakers can be found <a href="{{ site.baseurl }}/speakers">here</a>. 
-Please note that all times are in Eastern Standard Time (New York). The final program is subject to change.
 
 <table class="styled-table">
     <thead>
@@ -145,7 +147,8 @@ Please note that all times are in Eastern Standard Time (New York). The final pr
         <tr>
             <td>15:30</td>
             <td>
-            Invited talk: TBD
+            Invited talk: "Living in the moment: Studying pragmatic inference with temporally sensitive measures of comprehension"
+            <br><br><p style="font-size:0.75rem;">We will take a whirlwind, mile high, tour of the literature on the moment-to-moment processing of two simple quantity implicatures:  scalar implicatures (avoidance of underinformative statements) and the inference that adjectives will be used contrastively (avoidance on overinformativity). On the basis of the scalars, I will propose that there are two routes by which implicatures are calculated: a slow bottom-up route and top-down route that leads the appearance of instantaneous implicature.  This top-down route relies on the speaker’s conceptualization of the context in linguistically relevant terms. This analysis makes some novel predictions about the role of speaker modelling in the adjective inference.  I’ll present unpublished data that support these new predictions.</p>
             </td>
             <td>Jesse Snedeker</td>
             <td>Zoom</td>
