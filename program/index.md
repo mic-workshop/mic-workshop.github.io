@@ -174,7 +174,8 @@ Information about invited speakers can be found <a href="{{ site.baseurl }}/spea
         <tr>
             <td>16:30</td>
             <td>
-            Invited talk: TBD
+            Invited talk: "Language, Context, and Action: A Semantic Machines View of Conversational AI"
+            <br><br><p style="font-size:0.75rem;">Task-oriented dialog is inherently about contextual action: users address the system from a specific context and the system must decide what to do in response.  This talk will present some of the core principles of the Semantic Machines team's approach to conversational AI: program synthesis for action prediction, compositionality for handling complex tasks, metacomputation for reference and revision, error handling for dialog management, and dynamic generation for truthful output.  I will also mention ways in which real-world constraints can help to inform the design of conversational systems.</p>
             </td>
             <td>Dan Klein</td>
             <td>Zoom</td>
